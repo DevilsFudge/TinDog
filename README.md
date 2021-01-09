@@ -1,2 +1,1 @@
-# TinDog
-Udemy challenge
+TinDog Starting Files
